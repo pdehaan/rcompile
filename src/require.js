@@ -64,11 +64,15 @@
 
     function runModule( moduleId ) {
 
+        _pathStack.push( dirname( moduleId ));
+
         var moduleObject = getModule( moduleId );
 
         if ( moduleObject instanceof Function ) {
             moduleObject();
         }
+
+        _pathStack.pop();
 
     }
 
