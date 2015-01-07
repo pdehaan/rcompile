@@ -78,7 +78,6 @@
 
         var moduleDefinition = _moduleDefs[ moduleId ],
             moduleContext = {
-                abc: 123,
                 exports: {}
             },
             moduleObject = moduleDefinition.call(
