@@ -8,6 +8,7 @@
     /* Module references */
 
     /* Local constants */
+    var _VERSION_ = '0.1.2';
 
     /* Local variables */
     var _moduleAliases = {},
@@ -182,6 +183,7 @@
     /* Module exports */
 
     // Export require global functions
+    requireModule.version = _VERSION_;
     requireModule.alias = aliasModule;
     requireModule.get = getModule;
     requireModule.set = setModule;
