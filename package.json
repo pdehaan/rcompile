@@ -4,7 +4,7 @@
     "keywords": [
         "rcompile", "CommonJS", "require", "web", "tool"
     ],
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "DJ-NotYet <dj.notyet@gmail.com>",
     "contributors" : [],
     "license": {
