@@ -8,7 +8,7 @@
     /* Module references */
 
     /* Local constants */
-    var _VERSION_ = '0.1.2';
+    var _VERSION_ = '0.1.3';
 
     /* Local variables */
     var _moduleAliases = {},
