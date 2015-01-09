@@ -4,7 +4,6 @@ RCompile
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
 [![NPM version](https://img.shields.io/npm/v/rcompile.svg?style=flat-square)](https://www.npmjs.org/package/rcompile)
-[![Build status](https://secure.travis-ci.org/DJ-NotYet/rcompile.png?branch=master)](https://travis-ci.org/DJ-NotYet/rcompile)
 [![Dependency Status](https://gemnasium.com/DJ-NotYet/rcompile.png)](https://gemnasium.com/DJ-NotYet/rcompile)
 
 **Alpha project, use at your own risk**
@@ -38,7 +37,7 @@ License
 
 (The Apache License 2.0)
 
-Copyright (c) 2014, DJ-NotYet @ ScrewJS WorkGroup <ScrewJS.github.io>
+Copyright (c) 2014-2015, DJ-NotYet @ ScrewJS WorkGroup <ScrewJS.github.io>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
