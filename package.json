@@ -7,10 +7,7 @@
     "version": "0.1.3",
     "author": "DJ-NotYet <dj.notyet@gmail.com>",
     "contributors" : [],
-    "license": {
-        "type": "MIT",
-        "url": "http://opensource.org/licenses/MIT"
-    },
+    "license": "MIT",
     "main": "index.js",
     "directories": {
         "bin": "bin"
